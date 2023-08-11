@@ -1,0 +1,10 @@
+ner_lstm_model/*
+results/*
+logs/*
+fine_tuned_sentiment/*
+my_history.npy
+debug.txt
+fine_tuned_sentiment_model/*
+fine_tuned_sentiment_pipeline.pkl
+test_trainer/*
+my_test_model/*
